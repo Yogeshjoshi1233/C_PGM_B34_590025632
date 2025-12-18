@@ -8,10 +8,10 @@ scanf("%d", &a);
 printf("Enter second number: ");
 scanf("%d", &b);
 
-printf("\nBitwise AND (a & b) = %d", a & b);
-printf("\nBitwise OR  (a | b) = %d", a | b);
-printf("\nBitwise NOT (~a) = %d", ~a);
-printf("\nBitwise NOT (~b) = %d\n", ~b);
+printf("\n AND (a & b) = %d", a & b);
+printf("\n OR  (a | b) = %d", a | b);
+printf("\n NOT (~a) = %d", ~a);
+printf("\n NOT (~b) = %d\n", ~b);
 
 return 0;
 }
