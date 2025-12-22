@@ -1,0 +1,6 @@
+print(20)
+print("hello i am yogesh dinesh joshi and i am ",20,"years old")
+print(2+3)
+print(5*2)
+print(10/2)
+print(2-0)
